@@ -1,0 +1,38 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+  
+}
+.cont3{
+    width: 500px;
+    height: 500px;
+    
+    
+}
+#input1{
+    width: 300px;
+    height: 30px;
+    margin-left: 500px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 650px;
+    margin-bottom: 100px;
+    position: relative;
+    font-size: 15px;
+    
+}
+#but1{
+  height: 37px;
+  width: 45px;
+  margin-top: -200px;
+  
+}
+.cont1{
+    width: 100px;
+    height: 300px;
+    margin-left: 650px;
+    cursor: pointer;
+    margin-bottom: 80px;
+}
